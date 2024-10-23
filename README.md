@@ -4,7 +4,7 @@
 
 ## Deployment Methods.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Fbrunyssite%2FBrunysIXLWork-Portable)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FExplo4ers%2FMexisgyatt)
 
 ## run npm i
 
