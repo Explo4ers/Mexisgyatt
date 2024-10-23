@@ -3,7 +3,7 @@ services:
 - type: web
   name: brunysixlwork
   runtime: node
-  repo: https://github.com/xyphoranetwork/BrunysIXLWork-Portable
+  repo: https://github.com/brunyssite/BrunysIXLWork-Portable
   plan: free
   region: oregon
   buildCommand: npm i
