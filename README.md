@@ -1,2 +1,2 @@
 # BrunysIXLWork Portable
-now deploy BIW to make your own links and be cool😎 
+Make your own links and play BRUNYIXLWORK NOW!!
